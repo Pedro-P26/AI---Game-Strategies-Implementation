@@ -39,6 +39,6 @@ This project involves the implementation of artificial intelligence strategies f
 ## 🔄 Usage
 Detailed commands to execute the AI strategies for each game:
 ```bash
-python connect4.py        # For running Connect4 AI
-python minesweeper.py     # For running Minesweeper AI
-python hlpoker.py         # For running HL Poker AI
+python IAconnect4.py       
+python IAmine.py    
+python IAPoker.py         
